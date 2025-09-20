@@ -6,7 +6,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 1 – Simple Monopoly Game :contentReference[oaicite:0]{index=0}  
+##  Assignment 1 – Simple Monopoly Game :contentReference  
 - Implemented a **console-based Monopoly game** where the player competes against computer-controlled opponents.  
 - Built a turn-based system with dice rolls, property management, rent collection, special event cells, and win/lose conditions.  
 - Practiced:
@@ -19,7 +19,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 2 – Chain of Words :contentReference[oaicite:1]{index=1}  
+##  Assignment 2 – Chain of Words :contentReference
 - Developed a console app that generates **word chains** where each consecutive word differs by exactly one character (insert, delete, or replace).  
 - Added:
   - `Word` class with chain detection (`canChain`) and storage of possible links.  
@@ -35,7 +35,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 3 – Calculating Shapes :contentReference[oaicite:2]{index=2}  
+##  Assignment 3 – Calculating Shapes :contentReference
 - Built a **hierarchy of 2D and 3D geometric shape classes** using abstract classes and inheritance.  
 - Implemented:
   - `GeometricShape2D` (with `calculateArea`, `printInfo`).  
@@ -51,7 +51,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 4 – Monopoly with GUI :contentReference[oaicite:3]{index=3}  
+##  Assignment 4 – Monopoly with GUI :contentReference 
 - Extended Assignment 1 into a **GUI-based Monopoly game**.  
 - Features:  
   - Start screen with player name input (`JFrame`, `GridLayout`).  
@@ -69,7 +69,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 5 – Mouse Maze with Recursion :contentReference[oaicite:4]{index=4}  
+##  Assignment 5 – Mouse Maze with Recursion :contentReference
 - Implemented a **maze-solving GUI application** where a mouse finds the shortest path to cheese.  
 - Features:
   - 5x5 grid with customizable **start, end, and walls**.  
@@ -86,7 +86,7 @@ Each lab helped me strengthen my programming skills in Java and prepared me for 
 
 ---
 
-##  Assignment 6 – Sorting Accounts with Hybrid Sort :contentReference[oaicite:5]{index=5}  
+##  Assignment 6 – Sorting Accounts with Hybrid Sort :contentReference 
 - Built a **banking system simulation** with user accounts in multiple currencies.  
 - Features:
   - Users have IDs, names, surnames, and multiple accounts.  
